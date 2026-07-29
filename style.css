@@ -63,3 +63,25 @@ footer {
 
     background-color: white;
 }
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo img {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+}
+
+.logo-text h1 {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+.logo-text p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #666;
+}
