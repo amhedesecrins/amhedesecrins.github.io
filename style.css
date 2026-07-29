@@ -69,10 +69,6 @@ footer {
     gap: 15px;
 }
 
-.logo img {
-    width: 120px;
-    height: 120px;
-    object-fit: contain;
 }
 
 .logo-text h1 {
