@@ -67,8 +67,7 @@ nav a {
 .button {
     display: inline-block;
 
-    margin-top: 20px;
-    padding: 12px 24px;
+    padding: 14px 28px;
 
     background-color: #4f6672;
     color: white;
@@ -76,6 +75,8 @@ nav a {
     text-decoration: none;
 
     border-radius: 6px;
+
+    font-weight: bold;
 }
 
 .presentation,
