@@ -22,15 +22,46 @@ nav a {
 }
 
 .hero {
+    min-height: 70vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     text-align: center;
 
-    padding: 100px 20px;
+    background-image:
+        linear-gradient(
+            rgba(0,0,0,0.35),
+            rgba(0,0,0,0.35)
+        ),
+        url("assets/images/photos/foto-provisional.png");
 
-    background-color: #e9e5dd;
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+
+    padding: 40px;
+}
+
+.hero-content {
+    max-width: 800px;
 }
 
 .hero h2 {
-    font-size: 2.5rem;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+.hero-subtitle {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.hero-weapons {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
 }
 
 .button {
