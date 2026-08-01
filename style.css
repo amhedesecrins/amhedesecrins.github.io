@@ -113,3 +113,29 @@ footer {
     font-size: 0.9rem;
     color: #666;
 }
+.club {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+
+    max-width: 1200px;
+
+    margin: auto;
+
+    padding: 80px 30px;
+}
+
+.club-logo img {
+    width: 320px;
+    max-width: 100%;
+}
+
+.club-text {
+    max-width: 600px;
+}
+
+.club-text h2 {
+    margin-top: 0;
+    font-size: 2.2rem;
+}
