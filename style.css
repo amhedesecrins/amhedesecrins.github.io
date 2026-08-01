@@ -187,3 +187,13 @@ footer {
 
     line-height: 1.7;
 }
+
+.amhe-intro {
+    max-width: 900px;
+
+    margin: auto;
+
+    text-align: left;
+
+    line-height: 1.7;
+}
