@@ -138,3 +138,47 @@ footer {
     margin-top: 0;
     font-size: 2.2rem;
 }
+
+.amhe {
+    max-width: 1200px;
+
+    margin: auto;
+
+    padding: 50px 30px;
+}
+
+.amhe h2 {
+    text-align: center;
+
+    margin-bottom: 40px;
+
+    font-size: 2.2rem;
+}
+
+.amhe-images {
+    display: flex;
+
+    gap: 20px;
+
+    justify-content: center;
+
+    margin-bottom: 40px;
+}
+
+.amhe-images img {
+    width: 100%;
+
+    max-width: 500px;
+
+    border-radius: 8px;
+}
+
+.amhe-text {
+    max-width: 900px;
+
+    margin: auto;
+
+    text-align: left;
+
+    line-height: 1.7;
+}
