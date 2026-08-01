@@ -26,6 +26,8 @@ nav a {
 }
 
 .hero {
+    margin-top: 20px;
+    
     min-height: 85vh;
 
     display: flex;
