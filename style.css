@@ -45,6 +45,7 @@ nav a {
 
 .hero-content {
     max-width: 800px;
+     transform: translateY(-80px);
 }
 
 .hero h2 {
