@@ -46,6 +46,13 @@ nav a {
 .hero h2 {
     font-size: 4rem;
     margin-bottom: 20px;
+
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+}
+
+.hero-subtitle,
+.hero-weapons {
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
 }
 
 .hero-subtitle {
