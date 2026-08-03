@@ -291,3 +291,25 @@ footer {
     }
 
 }
+.contact {
+    max-width: 900px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.contact p {
+    font-size: 1.1rem;
+    margin: 15px 0;
+}
+
+.contact i {
+    width: 30px;
+}
+
+.contact a {
+    color: #0066cc;
+}
+
+.contact a:hover {
+    text-decoration: none;
+}
