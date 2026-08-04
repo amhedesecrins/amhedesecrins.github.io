@@ -327,3 +327,10 @@ footer p {
 .contact a:hover {
     text-decoration: none;
 }
+
+.training {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 20px 60px 20px;
+}
